@@ -1,3 +1,5 @@
+# Por que utilizar headless commerce
+
 O commerce headless é uma abordagem cada vez mais popular para o desenvolvimento de lojas virtuais, oferecendo várias vantagens em comparação com as abordagens tradicionais. Aqui estão algumas das principais razões pelas quais as empresas estão optando por utilizar headless commerce:
 
 - Flexibilidade: Ao separar a interface do usuário da loja virtual do seu back-end, o headless commerce permite que as empresas facilmente integrem suas lojas virtuais a diferentes tipos de interfaces do usuário, incluindo aplicativos móveis, assistentes de voz e outros dispositivos habilitados para IoT. Isso significa que as empresas podem oferecer aos seus clientes a melhor experiência de compra independentemente do dispositivo que estão usando.
