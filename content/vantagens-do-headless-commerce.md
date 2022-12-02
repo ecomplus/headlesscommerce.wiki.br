@@ -1,3 +1,5 @@
+# Vantagens do headless commerce
+
 As vantagens do headless commerce são muitas e podem ajudar as empresas a se destacarem em um mercado cada vez mais competitivo. Aqui estão algumas das principais vantagens do headless commerce:
 
 - Flexibilidade: Com o headless commerce, as empresas podem facilmente integrar suas lojas virtuais a diferentes tipos de interfaces do usuário, incluindo aplicativos móveis, assistentes de voz e outros dispositivos habilitados para IoT. Isso significa que as empresas podem oferecer aos seus clientes a melhor experiência de compra independentemente do dispositivo que estão usando.
