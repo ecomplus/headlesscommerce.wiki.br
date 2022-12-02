@@ -1,4 +1,4 @@
-# O que é, e por que Headless Commerce?
+# O que é, e por que headless commerce?
 
 O commerce headless é uma abordagem de desenvolvimento de lojas virtuais que se concentra na separação da interface do usuário da loja de sua funcionalidade de back-end. Isso permite que as lojas virtuais sejam facilmente integradas a diferentes tipos de interfaces do usuário, incluindo aplicativos móveis, assistentes de voz e outros dispositivos habilitados para IoT.
 
