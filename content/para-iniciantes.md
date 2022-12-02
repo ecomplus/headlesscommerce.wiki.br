@@ -1,4 +1,4 @@
-# O que é Headless Commerce? (para iniciantes)
+# O que é headless commerce? (para iniciantes)
 
 Headless commerce é uma tendência em tecnologia de e-commerce que separa a interface do usuário (front-end) da plataforma de gerenciamento de conteúdo (back-end). Isso permite que as empresas criem experiências de compra personalizadas e altamente adaptáveis para seus clientes, sem ser limitadas pela estrutura de sua plataforma de e-commerce existente.
 
